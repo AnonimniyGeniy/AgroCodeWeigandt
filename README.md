@@ -1,2 +1,3 @@
-# AgroCodeWeigandt
-repo with data analysis and solution of AgroCode Data Science cup
+#Решение AgroCode data science cup by Вейгандт Владимир
+
+Основной блокнот с решением - [AgroHack](https://github.com/AnonimniyGeniy/AgroCodeWeigandt/blob/main/AgroHackWeigandt.ipynb)
